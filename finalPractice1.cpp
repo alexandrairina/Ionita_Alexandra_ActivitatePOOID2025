@@ -68,7 +68,7 @@ using namespace std;
 } */ 
 
 // Loops 
-
+/*
 int main() {
 
 	/*
@@ -79,8 +79,7 @@ int main() {
 	A job applicant should be a US citizen and either have a Bch. degree or at least two yrs of experience
 
 	*/
-
-	bool usCitizen = true; 
+  /*bool usCitizen = true;
 	bool degree = true;
 	cout << "Years of experience:" << endl;
 	int experience;
@@ -93,7 +92,7 @@ int main() {
 
 
 	return 0;
-}
+} */
 
 
 
